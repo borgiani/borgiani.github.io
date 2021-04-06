@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>https://borgiani.com.br/github/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://borgiani.com.br/lattes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://borgiani.com.br/linkedin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://borgiani.com.br/series/</loc>
   </url>
   
